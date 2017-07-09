@@ -7,4 +7,4 @@ The idea here is to physically control the phase breakers of an electrical meter
 
 The UI client sends bytes [0x49 - 0x52] to the NodeMCU unit which flips the PWM servos depending on the byte sent.
 
-![Screenshot] (https://github.com/01F0/BreakerTester/blob/master/Screenshot.png)
+![Screenshot](https://github.com/01F0/BreakerTester/blob/master/Screenshot.png)
